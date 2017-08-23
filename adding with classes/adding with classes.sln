@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adding with classes", "adding with classes\adding with classes.vcproj", "{15A56051-C675-4B86-9C83-E9F4041B936A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A56051-C675-4B86-9C83-E9F4041B936A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15A56051-C675-4B86-9C83-E9F4041B936A}.Debug|Win32.Build.0 = Debug|Win32
+		{15A56051-C675-4B86-9C83-E9F4041B936A}.Release|Win32.ActiveCfg = Release|Win32
+		{15A56051-C675-4B86-9C83-E9F4041B936A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

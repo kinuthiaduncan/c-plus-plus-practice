@@ -1,0 +1,10 @@
+﻿Build started 06-Jul-15 3:53:37 PM.
+     1>Project "D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Berry\Berry.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Debug\Berry.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Debug\Berry.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Debug\Berry.lib" /MACHINE:X86 Debug\Source.obj
+         Berry.vcxproj -> D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Debug\Berry.exe
+     1>Done Building Project "D:\Codes and Projects\Visual Studio 2013\Projects\Berry\Berry\Berry.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.12

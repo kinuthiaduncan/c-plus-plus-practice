@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1403486923 source:a:\njuguna john kamau\2nd year\1st sem\csc221 object oriented analysis design and programming\assignments\vector manipulation\main.cpp
+	<iostream>
+	"vectorClass.h"
+	<cstdlib>
+	<vector>
+
+1403487819 source:a:\njuguna john kamau\2nd year\1st sem\csc221 object oriented analysis design and programming\assignments\vector manipulation\vectorclass.cpp
+	"vectorClass.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1403484198 a:\njuguna john kamau\2nd year\1st sem\csc221 object oriented analysis design and programming\assignments\vector manipulation\vectorclass.h
+	<vector>
+
+1403447324 source:c:\users\duncan\desktop\vector manipulation\main.cpp
+	<iostream>
+	"vectorClass.h"
+	<cstdlib>
+	<vector>
+
+1403444600 c:\users\duncan\desktop\vector manipulation\vectorclass.h
+	<vector>
+
+1403448220 source:c:\users\duncan\desktop\vector manipulation\vectorclass.cpp
+	"vectorClass.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1403447324 source:d:\codes and projects\visual studio 2008\projects\vector manipulation\main.cpp
+	<iostream>
+	"vectorClass.h"
+	<cstdlib>
+	<vector>
+
+1403444600 d:\codes and projects\visual studio 2008\projects\vector manipulation\vectorclass.h
+	<vector>
+
+1403448220 source:d:\codes and projects\visual studio 2008\projects\vector manipulation\vectorclass.cpp
+	"vectorClass.h"
+	<vector>
+	<cmath>
+	<iostream>
+

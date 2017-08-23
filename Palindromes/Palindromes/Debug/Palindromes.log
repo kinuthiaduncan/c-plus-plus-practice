@@ -1,0 +1,40 @@
+﻿Build started 14-Dec-15 3:16:22 PM.
+     1>Project "D:\Codes and Projects\Visual Studio 2013\Projects\Palindromes\Palindromes\Palindromes.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Palindromes.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Palindromes.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Palindromes.cpp
+         Palindromes.cpp
+     1>d:\codes and projects\visual studio 2013\projects\palindromes\palindromes\palindromes.cpp(14): error C2679: binary '>>' : no operator found which takes a right-hand operand of type 'std::string' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(485): could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(466): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(448): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(430): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(411): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(392): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(373): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(353): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(335): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(317): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(291): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(272): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(237): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(218): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::_Bool &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(211): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(204): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(198): or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(1103): or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::string>(std::basic_istream<char,std::char_traits<char>> &&,_Ty &)'
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(1093): or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(1086): or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(1079): or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\istream(1072): or       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)'
+                 while trying to match the argument list '(std::istream, std::string)'
+     1>Done Building Project "D:\Codes and Projects\Visual Studio 2013\Projects\Palindromes\Palindromes\Palindromes.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.17

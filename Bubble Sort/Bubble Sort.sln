@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bubble Sort", "Bubble Sort\Bubble Sort.vcproj", "{F0BBF4E5-D319-42F9-9A11-74D559E2263D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BBF4E5-D319-42F9-9A11-74D559E2263D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0BBF4E5-D319-42F9-9A11-74D559E2263D}.Debug|Win32.Build.0 = Debug|Win32
+		{F0BBF4E5-D319-42F9-9A11-74D559E2263D}.Release|Win32.ActiveCfg = Release|Win32
+		{F0BBF4E5-D319-42F9-9A11-74D559E2263D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

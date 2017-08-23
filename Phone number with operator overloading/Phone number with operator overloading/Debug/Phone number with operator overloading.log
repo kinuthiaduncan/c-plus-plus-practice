@@ -1,0 +1,147 @@
+﻿Build started 23-Jan-15 9:28:49 PM.
+     1>Project "D:\Codes and Projects\Visual Studio 2012\Projects\Phone number with operator overloading\Phone number with operator overloading\Phone number with operator overloading.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PhoneNumber.cpp Source.cpp
+         Source.cpp
+     1>d:\codes and projects\visual studio 2012\projects\phone number with operator overloading\phone number with operator overloading\source.cpp(8): error C2679: binary '>>' : no operator found which takes a right-hand operand of type 'PhoneNumber' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053): could be 'std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,signed char *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060): or       'std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,signed char &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067): or       'std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,unsigned char *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074): or       'std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,unsigned char &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084): or       'std::basic_istream<_Elem,_Traits> &std::operator >><char,std::char_traits<char>,PhoneNumber>(std::basic_istream<_Elem,_Traits> &&,_Ty &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ty=PhoneNumber
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(193): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_istream<_Elem,_Traits> &(__cdecl *)(std::basic_istream<_Elem,_Traits> &))'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(199): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(206): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(213): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::_Bool &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(232): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(short &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(267): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned short &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(286): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(int &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(312): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned int &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(330): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(long &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(348): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned long &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(368): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(__int64 &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(387): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned __int64 &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(406): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(float &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(425): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(double &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(443): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(long double &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(461): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(void *&)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(480): or       'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_streambuf<_Elem,_Traits> *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 while trying to match the argument list '(std::istream, PhoneNumber)'
+         PhoneNumber.cpp
+         Generating Code...
+     1>Done Building Project "D:\Codes and Projects\Visual Studio 2012\Projects\Phone number with operator overloading\Phone number with operator overloading\Phone number with operator overloading.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.06

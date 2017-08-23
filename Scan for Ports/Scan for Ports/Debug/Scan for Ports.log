@@ -1,0 +1,17 @@
+﻿Build started 09-Feb-16 3:39:38 PM.
+     1>Project "D:\Codes and Projects\Visual Studio 2013\Projects\C and C++\Scan for Ports\Scan for Ports\Scan for Ports.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Duncan\Downloads\SFML-2.3.2-windows-vc12-32-bit\SFML-2.3.2" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Scan for Ports.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Scan for Ports.cpp"
+         Scan for Ports.cpp
+     1>d:\codes and projects\visual studio 2013\projects\c and c++\scan for ports\scan for ports\scan for ports.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>d:\codes and projects\visual studio 2013\projects\c and c++\scan for ports\scan for ports\scan for ports.cpp(2): warning C4627: '#include <SFML/Network.hpp>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>d:\codes and projects\visual studio 2013\projects\c and c++\scan for ports\scan for ports\scan for ports.cpp(3): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>d:\codes and projects\visual studio 2013\projects\c and c++\scan for ports\scan for ports\scan for ports.cpp(29): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "D:\Codes and Projects\Visual Studio 2013\Projects\C and C++\Scan for Ports\Scan for Ports\Scan for Ports.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.16

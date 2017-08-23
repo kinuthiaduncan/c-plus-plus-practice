@@ -1,0 +1,11 @@
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\bin\Debug\SolveEquation.exe
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\bin\Debug\SolveEquation.pdb
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.Form1.resources
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.LinearEquationForm.resources
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.Properties.Resources.resources
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.csproj.GenerateResource.Cache
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.exe
+C:\Users\Duncan\Desktop\AI\AI\SolveEquation_demo\SolveEquation\SolveEquation\obj\Debug\SolveEquation.pdb
+D:\Codes and Projects\Visual Studio 2008\Projects\artificial_intelligence\SolveEquation\obj\Debug\SolveEquation.exe
+D:\Codes and Projects\Visual Studio 2008\Projects\artificial_intelligence\SolveEquation\obj\Debug\SolveEquation.pdb
