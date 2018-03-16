@@ -15,6 +15,6 @@ IntCell.h
 /home/panther/projects/CPlusPlus/c-and-c-practice/data_structures_practice/main.cpp
 iostream
 -
-IntCell.cpp
-/home/panther/projects/CPlusPlus/c-and-c-practice/data_structures_practice/IntCell.cpp
+IntCell.h
+/home/panther/projects/CPlusPlus/c-and-c-practice/data_structures_practice/IntCell.h
 

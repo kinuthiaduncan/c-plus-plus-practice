@@ -8,20 +8,9 @@
 
 class IntCell {
 public:
-    explicit IntCell(int initialValue = 0)
-    : storedValue {initialValue}
-    {
-
-    }
-    int read() const
-    {
-        return storedValue;
-    }
-    void write(int x)
-    {
-        storedValue = x;
-    }
-
+    explicit IntCell(int initialValue = 0);
+    int read() const;
+    void write(int x);
 private:
     int storedValue;
 };
