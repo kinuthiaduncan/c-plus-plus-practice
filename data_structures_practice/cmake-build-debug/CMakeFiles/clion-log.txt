@@ -1,0 +1,4 @@
+/home/panther/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/panther/projects/CPlusPlus/c-and-c-practice/data_structures_practice
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/panther/projects/CPlusPlus/c-and-c-practice/data_structures_practice/cmake-build-debug

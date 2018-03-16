@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/data_structures_practice.dir/main.cpp.o CMakeFiles/data_structures_practice.dir/IntCell.cpp.o  -o data_structures_practice 
