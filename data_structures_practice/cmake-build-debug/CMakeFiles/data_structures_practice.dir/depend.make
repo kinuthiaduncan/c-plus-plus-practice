@@ -4,6 +4,5 @@
 CMakeFiles/data_structures_practice.dir/IntCell.cpp.o: ../IntCell.cpp
 CMakeFiles/data_structures_practice.dir/IntCell.cpp.o: ../IntCell.h
 
-CMakeFiles/data_structures_practice.dir/main.cpp.o: ../IntCell.h
 CMakeFiles/data_structures_practice.dir/main.cpp.o: ../main.cpp
 

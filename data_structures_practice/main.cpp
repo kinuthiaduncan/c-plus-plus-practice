@@ -1,17 +1,16 @@
 #include <iostream>
-#include "IntCell.h"
+#include <vector>
 
 using namespace std;
 
+int addition(int & x, int & y)
+{
+    return x+y;
+}
+
 int main() {
-    IntCell *intCell;
-    intCell = new IntCell{ };
-
-    intCell->write(30);
-    int answer = intCell->read();
-
-    cout << answer<< endl;
-
-    delete intCell;
+    int a = 2;
+    int b = 3;
+    cout<<addition(a,b)<<endl;
     return 0;
 }
