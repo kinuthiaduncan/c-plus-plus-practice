@@ -4,18 +4,15 @@
 #include "IntCell.h"
 
 IntCell::IntCell(int initialValue)
-    :storedValue(initialValue)
-{
-
-}
+    { storedValue = new int{ initialValue }; }
 
 int IntCell::read() const
 {
-    return storedValue;
+    return *storedValue;
 }
 
 void IntCell::write(int x)
 {
-    storedValue = x;
+    *storedValue = x;
 }
 
