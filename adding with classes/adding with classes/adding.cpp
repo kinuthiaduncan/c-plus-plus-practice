@@ -1,28 +1,25 @@
 #include <iostream>
 using namespace std;
-class AddingNumbers
-{
+class AddingNumbers {
 private:
-	int a;
-	int b;
-	int sum;
+    int a;
+    int b;
+    int sum;
 public:
-	void inputNumbers()
-	{
-			cout<<"Please Enter the First Number:\t";
-	cin>>a;
-		cout<<"Please Enter the Second Number:\t";
-	cin>>b;
-	}
-	void displaySum()
-	{
-		cout<<"Sum is:"<<a+b<<endl;
-	}
+    void inputNumbers() {
+        cout << "Please Enter the First Number:\t";
+        cin >> a;
+        cout << "Please Enter the Second Number:\t";
+        cin >> b;
+    }
+
+    void displaySum() {
+        cout << "Sum is:" << a + b << endl;
+    }
 };
-int main()
-{
-	AddingNumbers myNumbers;
-	myNumbers.inputNumbers();
-	myNumbers.displaySum();
+int main() {
+    AddingNumbers myNumbers{};
+    myNumbers.inputNumbers();
+    myNumbers.displaySum();
 }
 

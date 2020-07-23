@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gossip.dir/Gossip.cpp.o CMakeFiles/Gossip.dir/main.cpp.o CMakeFiles/Gossip.dir/Source.cpp.o  -o Gossip 

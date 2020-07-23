@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/adding_with_classes.dir/adding.cpp.o  -o adding_with_classes 

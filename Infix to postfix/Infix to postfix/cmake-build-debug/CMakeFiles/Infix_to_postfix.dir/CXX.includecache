@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duncan/projects/personal/c-and-c-practice/Infix to postfix/Infix to postfix/infix to postfix.cpp
+cstdio
+-
+cctype
+-
+

@@ -1,0 +1,3 @@
+/home/duncan/projects/personal/c-and-c-practice/Infix to postfix/Infix to postfix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/duncan/projects/personal/c-and-c-practice/Infix to postfix/Infix to postfix/cmake-build-debug/CMakeFiles/Infix_to_postfix.dir
+/home/duncan/projects/personal/c-and-c-practice/Infix to postfix/Infix to postfix/cmake-build-debug/CMakeFiles/edit_cache.dir

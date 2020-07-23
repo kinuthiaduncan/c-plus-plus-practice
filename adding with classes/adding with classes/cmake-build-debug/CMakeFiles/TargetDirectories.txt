@@ -1,0 +1,3 @@
+/home/duncan/projects/personal/c-and-c-practice/adding with classes/adding with classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/duncan/projects/personal/c-and-c-practice/adding with classes/adding with classes/cmake-build-debug/CMakeFiles/adding_with_classes.dir
+/home/duncan/projects/personal/c-and-c-practice/adding with classes/adding with classes/cmake-build-debug/CMakeFiles/edit_cache.dir

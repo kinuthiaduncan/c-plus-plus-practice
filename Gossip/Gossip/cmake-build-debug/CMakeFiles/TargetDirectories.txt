@@ -1,0 +1,3 @@
+/home/duncan/projects/personal/c-and-c-practice/Gossip/Gossip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/duncan/projects/personal/c-and-c-practice/Gossip/Gossip/cmake-build-debug/CMakeFiles/Gossip.dir
+/home/duncan/projects/personal/c-and-c-practice/Gossip/Gossip/cmake-build-debug/CMakeFiles/edit_cache.dir
